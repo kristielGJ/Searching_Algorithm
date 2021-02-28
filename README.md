@@ -1,4 +1,4 @@
-# Searching_Algorithm
+# Searching_Algorithm_Java
 Algorithm's module course work, programed algorithms for finding the longest word, unique count, etc of some data. (see pdf). I achieved 95%, see marks in .txt file
 
 Marks:
